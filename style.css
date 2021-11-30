@@ -302,7 +302,7 @@ footer {
     text-decoration: none;
 }
 
-/* Responsive */
+/* Ouvert */
 @media all and (max-width: 767px) {
     .hero .heroD {
         display: none;
