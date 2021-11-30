@@ -223,7 +223,12 @@ a .btn {
 /* Team */
 .team {
     padding: 4rem 0;
+    background: linear-gradient(217deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0) 70.71%),
+            linear-gradient(127deg, rgba(0, 0, 0, 0.8), rgba(59, 59, 59, 0.8) 70.71%),
+            linear-gradient(336deg, rgba(0, 0, 0, 0.8), rgba(129, 129, 129, 0.8) 70.71%);
+    padding: 4rem 0;
 }
+
 
 .team h2 {
     margin-bottom: 2rem;
