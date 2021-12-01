@@ -1,0 +1,4 @@
+RewriteEngine sur
+RewriteCond% {REQUEST_FILENAME}! -D
+RewriteCond% {REQUEST_FILENAME} \. Html -f
+RewriteRule ^ (. *) $ $ 1.html [NC, L]
