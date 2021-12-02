@@ -60,6 +60,13 @@ a .btn {
     z-index: 5;
 }
 
+img.alignRight{
+    float:right;
+}
+p.alignLeft{
+    text-align:left;
+}
+
 /* Accueil */
 .hero {
     height: 100vh;
